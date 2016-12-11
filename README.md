@@ -1,4 +1,4 @@
 # Hello-World
 Just another repository
 
-Ok! Hi, call me Eka
+Ok! Hi, I am Eka. Totally newbie in code/programming things. I want to learning about java.
